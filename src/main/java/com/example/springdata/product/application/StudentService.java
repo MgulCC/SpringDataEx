@@ -1,4 +1,4 @@
-package com.example.springdata.product.application.mapper;
+package com.example.springdata.product.application;
 
 import com.example.springdata.product.infrastructure.controller.dto.input.StudentInputDto;
 import com.example.springdata.product.infrastructure.controller.dto.output.StudentOutputDto;
